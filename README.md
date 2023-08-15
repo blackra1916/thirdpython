@@ -1,0 +1,2 @@
+# thirdpython
+Assignment for class
